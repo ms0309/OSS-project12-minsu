@@ -1,7 +1,9 @@
 #include<stdio.h>
 
-void main(){
+int main(){
 
   printf("oss project\n");
+  printf("first github tranning");
   
+  return 0;
 }
