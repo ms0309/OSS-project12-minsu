@@ -2,8 +2,8 @@
 
 int main(){
 
-  printf("OpenSource Tranning\n");
   printf("First code\n");
+  printf("Second code\n");
   return 0;
 
 }
