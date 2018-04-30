@@ -3,8 +3,7 @@
 int main(){
 
   printf("First code\n");
-  printf("Third code\n");
-
+  printf("Second code\n");
   return 0;
 
 }
